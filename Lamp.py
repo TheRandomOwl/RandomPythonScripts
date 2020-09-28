@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Script that tells you if your lamp need to be fixed.
 import sys
 
 STEP_1 = 1  # step 1
