@@ -9,7 +9,7 @@ while True:
         WORKING = input("Does your Lamp work? (Y/N): ")
         WORKING = WORKING.capitalize()
         if WORKING == 'Y':
-            print("Great ! Lamp is working.")
+            print("Great! Lamp is working.")
             exit()
         if WORKING == "N":
             break
