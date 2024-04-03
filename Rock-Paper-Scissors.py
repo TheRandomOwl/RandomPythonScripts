@@ -2,7 +2,7 @@ from random import randint
 player = str
 move = str
 computer_move = str
-print("To play, select Rock, Paper, or Scissors(1,2,or 3) or select q to quit.")
+print("To play, select Rock, Paper, or Scissors (1,2,or 3) or select q to quit.")
 while True:
     computer = randint(1, 3)
     if int(computer) == 1:
